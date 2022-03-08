@@ -1,5 +1,5 @@
 <!--
-**plitche/plitche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
+**slrslrr2/slrslrr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 
 Here are some ideas to get you started:
 
@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fplitche&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/plitche?label=Follow)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fslrslrr2e&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/slrslrr2?label=Follow)
 <br/>
 
-Hello👋 My name is Yongsoo(Plitche), I am Junior Java back-end developer can communicate.
+Hello👋 My name is Geumbit(slrslrr2), I am Junior Java back-end developer can communicate.
 Any **feedback** or **question** is always welcome! 
 > One day at a time!   
 > 꾸준히 하루에 하나씩!
@@ -31,6 +31,7 @@ Any **feedback** or **question** is always welcome!
   <img src="https://img.shields.io/badge/Oracle-DB3552?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/html-d14836?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/gradle-d14836?style=flat-square&logo=html5&logoColor=yellow"/></a>&nbsp 
 </p>
 <br/>
 
