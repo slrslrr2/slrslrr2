@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fslrslrr2e&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/slrslrr2?label=Follow)
@@ -35,4 +35,4 @@ Any **feedback** or **question** is always welcome!
 </p>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slrslrr2&show_icons=true&theme=chartreuse-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slrslrr2&show_icons=true&theme=chartreuse-dark)-->
